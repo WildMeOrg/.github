@@ -5,21 +5,22 @@
 ### Wildbook
 Our flagship conservation tool focused on individual identification and collaboration across different catalogs.
 
-* Java https://github.com/WildMeOrg/Wildbook
-* Python https://github.com/WildMeOrg/wildbook-ia
+* Web app in Java and Javascript https://github.com/WildMeOrg/Wildbook
+* Machine learning for image analysis in Python https://github.com/WildMeOrg/wildbook-ia
 
 ### Scout
 A tool for processing aerial survey data, focused on conservation through providing counts of animals.
 
-* Javascript Sails framework https://github.com/WildMeOrg/scout
+* Web app in Javascript Sails framework https://github.com/WildMeOrg/scout
+* Machine learning for image analysis in Python https://github.com/WildMeOrg/scoutbot
 
 
 ### Codex
 An experimental rewrite of the Wildbook conservation tool.
 
-* React https://github.com/WildMeOrg/codex-frontend
-* Python https://github.com/WildMeOrg/houston
-* Python https://github.com/WildMeOrg/wildbook-ia
+* Web app front end in React https://github.com/WildMeOrg/codex-frontend
+* Web app back end in Python https://github.com/WildMeOrg/houston
+* Machine learning for image analysis in Python https://github.com/WildMeOrg/wildbook-ia
 
 ## Community and Contributions
 Wild Me uses the PR workflow common to many Git projects. Contributes fork the project, create changes locally on branches, then request the that the original repo pull from the local branch.

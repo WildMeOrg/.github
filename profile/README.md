@@ -8,6 +8,7 @@ Our flagship conservation tool focused on individual identification and collabor
 
 * Web app in Java and Javascript https://github.com/WildMeOrg/Wildbook
 * Machine learning for image analysis in Python https://github.com/WildMeOrg/wildbook-ia
+* Desktop app that pairs with a Wildbook for image download, developed in Typescript https://github.com/WildMeOrg/WildbookExport
 
 ### Scout
 A tool for processing aerial survey data, focused on conservation through providing counts of animals.

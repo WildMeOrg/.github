@@ -35,5 +35,3 @@ The resulting pull request (PR) is then reviewed by other contributors. At prese
 Reviewed PRs will be approved and merged in by the Wild Me team, rejected outright (this is typically only done with code that is in flagrant disregard of styles or that does not contribute to the software/organizational goals), or have requests for changes.
 
 Contributors looking for support can join the [Wild Me Development Discord](https://discord.gg/zw4tr3RE4R).
-
-## Documentation

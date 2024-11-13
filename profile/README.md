@@ -16,16 +16,7 @@ A tool for processing aerial survey data, focused on conservation through provid
 
 * Web app in Javascript Sails framework https://github.com/WildMeOrg/scout
 * Machine learning for image analysis in Python https://github.com/WildMeOrg/scoutbot
-* * Product docs, sphinx project with markdown support https://github.com/WildMeOrg/scout-docs
-
-
-### Codex
-An experimental rewrite of the Wildbook conservation tool.
-
-* Web app front end in React https://github.com/WildMeOrg/codex-frontend
-* Web app back end in Python https://github.com/WildMeOrg/houston
-* Machine learning for image analysis in Python https://github.com/WildMeOrg/wildbook-ia
-* * Product docs, sphinx project with markdown support https://github.com/WildMeOrg/codex-docs
+* Product docs, sphinx project with markdown support https://github.com/WildMeOrg/scout-docs
 
 ## Community and Contributions
 Wild Me uses the PR workflow common to many Git projects. Contributes fork the project, create changes locally on branches, then request the that the original repo pull from the local branch.

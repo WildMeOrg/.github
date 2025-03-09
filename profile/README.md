@@ -1,5 +1,5 @@
-# Wild Me
-At Wild Me, we believe that conservation is a life-saving effort that everyone should be able to contribute to. We're dedicated to open source software that works to reverse the sixth mass extinction. Believe in the cause? Want to help? Whether you donate your time to the projects directly, or help us keep the lights on with a [financial contribution](https://secure.givelively.org/donate/conservation-x-labs-inc/wild-me), we're happy to have you as part of the team!
+# Wild Me Lab of Conservation X Labs
+At the Wild Me Lab, we believe that conservation is a life-saving effort that everyone should be able to contribute to. We're dedicated to open source software that works to reverse the sixth mass extinction. Believe in the cause? Want to help? Whether you donate your time to the projects directly, or help us keep the lights on with a [financial contribution](https://secure.givelively.org/donate/conservation-x-labs-inc/wild-me), we're happy to have you as part of the team!
 
 ## Projects
 
